@@ -64,5 +64,10 @@ public class EjemploOrdenesCompra {
 
         });
 
+        orden1.imprimir();
+        orden2.imprimir();
+
+
+
     }
 }
