@@ -63,6 +63,9 @@ public class EjemploOrdenesCompra {
             imp.imprimir();
 
         });
+        
+
+
 
         orden1.imprimir();
         orden2.imprimir();
